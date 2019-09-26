@@ -191,7 +191,9 @@ GEM
       raindrops (~> 0.7)
 
 PLATFORMS 
-  ruby
+  x86-mingw32
+  ruby 
+  x86_64-linux
 
 DEPENDENCIES
   active_model_serializers (>= 0.9.0)
